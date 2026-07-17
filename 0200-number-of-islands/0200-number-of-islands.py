@@ -32,6 +32,6 @@ class Solution:
                 visited[i+1][j]=1
             if j-1>=0 and grid[i][j-1] == "1" and visited[i][j-1]==0:
                 q.append((i,j-1))
-                visited[i][j-1]
+                visited[i][j-1]=1
             
 
