@@ -12,5 +12,3 @@ class Solution:
                 a.append(i)
      m=max(m,len(a))
      return m
-
-        
