@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0509-fibonacci-number) |
 ## Array
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0322-coin-change) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0704-binary-search) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
