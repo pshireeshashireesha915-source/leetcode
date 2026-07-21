@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0056-merge-intervals) |
 | [0198-house-robber](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0198-house-robber) |
@@ -111,5 +112,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
