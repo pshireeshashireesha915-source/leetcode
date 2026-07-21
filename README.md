@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0056-merge-intervals) |
 | [0198-house-robber](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0200-number-of-islands) |
+| [0283-move-zeroes](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0322-coin-change) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
