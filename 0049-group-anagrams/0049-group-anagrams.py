@@ -1,7 +1,11 @@
+from collections import defaultdict
+
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        def vignan(x):
-            y = sorted(x)
-            m = ''.join(y)
-            return m
-        
+        d = defaultdict(list)
+
+        for s in strs:
+            key = "".join(sorted(s))
+            d[key].append(s)
+
+        return list(d.values())
