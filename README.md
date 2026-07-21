@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0322-coin-change) |
+| [0704-binary-search](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/pshireeshashireesha915-source/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
